@@ -1,0 +1,27 @@
+{
+  "name": "@xtof974/ng-oauth2",
+  "version": "1.0.2",
+  "description": "Angular Library to manage OAuth 2.0 flows. OAuth 2.0 is the industry-standard protocol for authorization",
+  "author": "Christophe Courquet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtof974/ng-OAuth2.git"
+  },
+  "homepage": "https://github.com/xtof974/ng-OAuth2",
+  "keywords": [
+    "angular",
+    "library",
+    "OAuth2",
+    "OAuth",
+    "PKCE"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^11.2.14",
+    "@angular/core": "^11.2.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0",
+    "crypto-js": "^4.1.1"
+  },
+  "devDependencies": {}
+}
